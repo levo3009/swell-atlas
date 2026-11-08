@@ -1,0 +1,14 @@
+{
+  "name": "Swell Atlas",
+  "short_name": "Swell Atlas",
+  "description": "Surf spots in Morocco with forecast and plain-language rating.",
+  "display": "standalone",
+  "start_url": "/swell-atlas/",
+  "scope": "/swell-atlas/",
+  "background_color": "#f2f5f6",
+  "theme_color": "#0a7cff",
+  "icons": [
+    { "src": "/swell-atlas/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/swell-atlas/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
