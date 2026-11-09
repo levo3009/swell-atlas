@@ -1,6 +1,6 @@
 {
-  "name": "Swell Atlas",
-  "short_name": "Swell Atlas",
+  "name": "Maroggo Idiotenguide",
+  "short_name": "Maroggo",
   "description": "Surf spots in Morocco with forecast and plain-language rating.",
   "display": "standalone",
   "start_url": "/swell-atlas/",
